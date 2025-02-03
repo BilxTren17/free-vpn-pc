@@ -1,4 +1,5 @@
-# Free VPN for PC - Free VPN for Windows - Download Free VPN for PC 🛡️[![Download Free VPN for PC](https://img.shields.io/badge/Download-Free_VPN-blue?style=for-the-badge&logo=download)](https://github.com/yourrepo/releases)
+# Free VPN for PC - Free VPN for Windows - Download Free VPN for PC 🛡️
+[![Download Free VPN for PC](https://img.shields.io/badge/Download-Free_VPN-blue?style=for-the-badge&logo=download)](https://github.com/yourrepo/releases)
 
 
 Welcome to **Free VPN for PC**! 🌐 This project provides a free and easy-to-use VPN service for your Windows or Linux system. Protect your privacy online with minimal setup and get access to secure, encrypted browsing. 🔒
